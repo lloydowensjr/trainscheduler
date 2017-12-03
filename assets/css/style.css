@@ -3,7 +3,7 @@ body {
     background-color: #fff;
 }
 .jumbotron {
-    background-image: url('/.../images/train-me.jpg');
+    background-image: url('images/train-me.jpg');
     background-size: cover;
 }
 #train-table {
@@ -16,11 +16,11 @@ strong {
     color: #333;
 }
 h1 {
-    color: #666;
+    color: #fff;
 }
 .navbar {
     background-color: #111;
 }
 .lead {
-    color: #013220;
+    color: #fff;
 }
