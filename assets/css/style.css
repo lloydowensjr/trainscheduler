@@ -1,0 +1,26 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: #fff;
+}
+.jumbotron {
+    background-image: url('/.../images/train-me.jpg');
+    background-size: cover;
+}
+#train-table {
+    background-color: #777;
+}
+strong {
+    color: #ccc;
+}
+#requestcolor {
+    color: #333;
+}
+h1 {
+    color: #666;
+}
+.navbar {
+    background-color: #111;
+}
+.lead {
+    color: #013220;
+}
